@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "object-oriented-programing-team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noahdpsmith/challenge-10.git"
+  },
+  "author": "Noahdpsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noahdpsmith/challenge-10/issues"
+  },
+  "homepage": "https://github.com/Noahdpsmith/challenge-10#readme"
+}
